@@ -1,0 +1,1 @@
+"I combined the three major functions of my audibleConversations.py project to create a program that allows for audible conversation with ChatGPT using Google-Clouds TTS & STT APIs in combination with OpenAI's API
