@@ -1,3 +1,5 @@
+# Developer: Steven Caird @ https://stevencaird.netlify.app/
+
 from google.cloud import texttospeech
 import os
 import pyaudio
